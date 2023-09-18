@@ -1,0 +1,15 @@
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/bin/Debug/net7.0/WordCounter
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/bin/Debug/net7.0/WordCounter.deps.json
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/bin/Debug/net7.0/WordCounter.runtimeconfig.json
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/bin/Debug/net7.0/WordCounter.dll
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/bin/Debug/net7.0/WordCounter.pdb
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.csproj.AssemblyReference.cache
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.AssemblyInfoInputs.cache
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.AssemblyInfo.cs
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.csproj.CoreCompileInputs.cache
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.dll
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/refint/WordCounter.dll
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.pdb
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/WordCounter.genruntimeconfig.cache
+/Users/srijachatterjee/Desktop/WordCounter/WordCounter/obj/Debug/net7.0/ref/WordCounter.dll
